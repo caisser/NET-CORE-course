@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.deps.json
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.dll
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\bin\Debug\netcoreapp2.1\StaticFilesExample.pdb
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.dll
+C:\Users\Usuario\Desktop\CURSO ASP.NET MVC\Repo\NET-CORE-course\Mod03\Demo\StaticFilesExample\StaticFilesExample\obj\Debug\netcoreapp2.1\StaticFilesExample.pdb
