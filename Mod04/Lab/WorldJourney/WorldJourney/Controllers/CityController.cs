@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 using WorldJourney.Models;
+using WorldJourney.Filters;
 
 namespace WorldJourney.Controllers
 {
@@ -21,12 +22,15 @@ namespace WorldJourney.Controllers
             _data.CityInitializeData();
         }
 
+        [Route("WorldJourney")]
+        [ServiceFilter(typeof(LogActionFilterAttribute))]
         public IActionResult Index()
         {
             ViewData["Page"] = "Search city";
             return View();
         }
 
+        [Route("CityDetails/{id?}")]
         public IActionResult Details(int? id)
         {
             ViewData["Page"] = "Selected city";
